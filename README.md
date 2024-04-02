@@ -1,5 +1,5 @@
 # s3-file-editor
-Python script that allows you to download a file from an Amazon S3 bucket, edit it using a local text editor, and upload the modified file back to the S3 bucket.
+Python script that allows you to download a file from an Amazon S3 bucket, edit it using a local text editor on Windows, and upload the modified file back to the S3 bucket.
 
 Requirements:
     Python 3, Boto3 library (AWS SDK for Python). AWS user with necessary permissions, its credentials (keys) and an S3 bucket created in a specific region.
